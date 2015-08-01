@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="gb2312"?>
+<data>
+  <appid>300008222162</appid>
+  <appkey>06A27B542E8E6B8F</appkey>
+  <feeinfo>
+    <price>10</price>
+    <code>30000822216206</code>
+  </feeinfo>
+
+  <feeinfo>
+    <price>300</price>
+    <code>30000822216201</code>
+  </feeinfo>
+
+  <feeinfo>
+    <price>600</price>
+    <code>30000822216202</code>
+  </feeinfo>
+
+  <feeinfo>
+    <price>1000</price>
+    <code>30000822216203</code>
+  </feeinfo>
+
+  <feeinfo>
+    <price>1500</price>
+    <code>30000822216204</code>
+  </feeinfo>
+
+  <feeinfo>
+    <price>3000</price>
+    <code>30000822216205</code>
+  </feeinfo>
+
+</data>
